@@ -1,2 +1,2 @@
 # Data-Sci-Part-3
-Upload of the Project Part 3 Draft for the peer review process
+My name is Carrigan and this is my first time using Github!
